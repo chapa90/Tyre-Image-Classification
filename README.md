@@ -4,8 +4,7 @@ CNN for Image Classification (Tyres)
 PROYECTO MODELO DE RED NEURONAL CONVOLUCIONAL PARA LA DETECCIÓN DE NEUMÁTICOS EN MALAS CONDICIONES
 
 Este set de datos contiene 1,854 imágenes de neumáticos clasificados en 2 categorías:
-
-Defectuosos
+Defectuosos y
 Buenas Condiciones
 
 
